@@ -16,6 +16,7 @@ export const myProjects = [
       "Axios",
       "SCSS",
       "react-bootstrap",
+      "Storybook"
     ],
     github: "https://github.com/mcken-vince/CrewLaunch",
   },
@@ -39,14 +40,37 @@ export const myProjects = [
   {
     title: "Scheduler",
     description: "A scheduler app - for managing interview appiontments.",
-    techStack: ["Node", "Express", "PostgreSQL", "React", "HTML", "SCSS"],
+    techStack: ["Node", "Express", "PostgreSQL", "React", "HTML", "SCSS", "Storybook"],
     github: "https://github.com/mcken-vince/scheduler",
+  },
+  {
+    title: "Jungle Rails",
+    description: "E-commerce website",
+    techStack: [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "JQuery-Rails",
+      "Bootstrap",
+      "Stripe",
+      "Capybara",
+      "Poltergeist",
+    ],
+    github: "https://github.com/mcken-vince/jungle-rails",
   },
   {
     title: "SmartList",
     description:
       "Auto-categorize user inputs as a movie, book, food, or a different product.",
-    techStack: ["Node", "Express", "PostgreSQL", "JQuery", "Ajax", "HTML", "CSS"],
+    techStack: [
+      "Node",
+      "Express",
+      "PostgreSQL",
+      "JQuery",
+      "Ajax",
+      "HTML",
+      "CSS",
+    ],
     github: "https://github.com/mcken-vince/SmartList",
   },
   {
